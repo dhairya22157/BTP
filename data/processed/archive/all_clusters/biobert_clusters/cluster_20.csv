@@ -1,0 +1,4 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,REMARK,biobert_cluster,umap_x,umap_y
+transfer,action,action,move from one place to another,shift food to new container,relocate ingredients,transfer sauce to bowl,,action move from one place to another shift food to new container relocate ingredients,5,action,1.0,transfer,action,20,11.124556,5.5672593
+move,action,action,change position,shift ingredient,transfer to new location,move bowl aside,,action change position shift ingredient transfer to new location,5,action,1.0,move,action,20,11.104518,5.5889816
+push,action,action,move by applying pressure,press forward,shift ingredient,push dough into pan,,action move by applying pressure press forward shift ingredient,5,action,1.0,push,action,20,11.379653,4.8910365

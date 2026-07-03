@@ -1,0 +1,5 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,REMARK,biobert_cluster,umap_x,umap_y
+brush,action,action,apply liquid lightly,spread using brush,coat surface,brush oil on bread,,action apply liquid lightly spread using brush coat surface,5,action,1.0,brush,action,13,9.97587,7.7056565
+skin,shape change,shape change,remove outer layer,peel off covering,prepare surface,skin tomatoes,,shape change remove outer layer peel off covering prepare surface,5,shape change,1.0,skin,shape change,13,9.534636,6.535832
+spread,coating,coating,apply evenly,distribute across surface,coat,spread butter on toast,,coating apply evenly distribute across surface coat,5,coating,1.0,spread,coating,13,9.580595,6.8637495
+coat,coating,coating,cover with layer,apply outer layer,encase ingredient,coat chicken with breadcrumbs,,coating cover with layer apply outer layer encase ingredient,5,coating,1.0,coat,coating,13,9.797421,7.0109415

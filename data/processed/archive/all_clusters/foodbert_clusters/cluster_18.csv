@@ -1,0 +1,9 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,foodbert_cluster,foodbert_umap_x,foodbert_umap_y
+invert,action,flip action,turn upside down,flip container or food,reverse position,invert cake onto plate,,flip action turn upside down flip container or food reverse position,5,action,1.0,invert,18,5.753491,5.627837
+rotate,action,action,turn around,change position,ensure even cooking,rotate baking tray,,action turn around change position ensure even cooking,5,action,1.0,rotate,18,5.3360353,5.388303
+flip,action,action,turn over,reverse sides,change cooking surface,flip pancake,,action turn over reverse sides change cooking surface,5,action,1.0,flip,18,5.462016,5.5564556
+twist,action,action,turn or coil,rotate ends,shape ingredient,twist breadsticks,,action turn or coil rotate ends shape ingredient,5,action,1.0,twist,18,5.8852034,5.623457
+transfer,action,action,move from one place to another,shift food to new container,relocate ingredients,transfer sauce to bowl,,action move from one place to another shift food to new container relocate ingredients,5,action,1.0,transfer,18,5.037716,4.982958
+replace,action,action,put back in place,swap items,substitute ingredient,replace lid on pot,,action put back in place swap items substitute ingredient,5,action,1.0,replace,18,5.2530146,5.163371
+move,action,action,change position,shift ingredient,transfer to new location,move bowl aside,,action change position shift ingredient transfer to new location,5,action,1.0,move,18,5.162539,5.1854634
+turn,action,action,flip or rotate,change side or orientation,move position,turn steak in pan,,action flip or rotate change side or orientation move position,5,action,1.0,turn,18,5.5071144,5.569362

@@ -1,0 +1,8 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,REMARK,biobert_cluster,umap_x,umap_y
+settle,action,action,allow to rest,let ingredients stabilize,pause before next step,let batter settle,,action allow to rest let ingredients stabilize pause before next step,5,action,1.0,settle,action,21,10.6825,9.37708
+repeat,action,action,do again,perform step once more,carry out same action,repeat stirring process,,action do again perform step once more carry out same action,5,action,1.0,repeat,action,21,10.492338,9.252415
+stand,action,action,allow to rest,let sit without movement,pause process,let dough stand,,action allow to rest let sit without movement pause process,5,action,1.0,stand,action,21,10.630097,9.346891
+hold,action,action,keep at certain temperature,maintain position or state,preserve food,hold soup warm,,action keep at certain temperature maintain position or state preserve food,5,action,1.0,hold,action,21,10.646669,9.458821
+sit,action,action,rest without disturbance,allow to stand,pause process,let dough sit for 10 minutes,,action rest without disturbance allow to stand pause process,5,action,1.0,sit,action,21,10.648955,9.425808
+wait,action,action,pause before next step,allow time to pass,delay action,wait for dough to rise,,action pause before next step allow time to pass delay action,5,action,1.0,wait,action,21,10.565725,9.372042
+set,action,action,allow to firm,let rest until stable,fix shape,set jelly in fridge,,action allow to firm let rest until stable fix shape,5,action,1.0,set,action,21,10.7211,9.407928

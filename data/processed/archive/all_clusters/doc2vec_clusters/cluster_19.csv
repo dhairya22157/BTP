@@ -1,0 +1,2 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,doc2vec_cluster,umap_x,umap_y
+split,cutting,cut item,divide lengthwise,separate in half,cut into sections,split buns,,cut item divide lengthwise separate in half cut into sections,2,item,1.0,split,19,-3.365609,-0.0960267

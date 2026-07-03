@@ -1,0 +1,5 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,REMARK,biobert_cluster,umap_x,umap_y
+measure,unit,unit,determine exact amount,use measuring tools,portion ingredients accurately,measure flour,,unit determine exact amount use measuring tools portion ingredients accurately,1,unit,1.0,measure,unit,8,12.515042,6.208873
+fill,action,action,add content to container,stuff ingredient,complete portion,fill pastry with cream,,action add content to container stuff ingredient complete portion,5,action,1.0,fill,action,8,12.729628,6.032003
+cook,action,action,prepare food with heat,apply heat to ingredients,transform raw to edible,cook pasta,,action prepare food with heat apply heat to ingredients transform raw to edible,5,action,1.0,cook,action,8,12.445455,8.793123
+add,action,action,include ingredient,introduce into mixture,combine with others,add salt to taste,,action include ingredient introduce into mixture combine with others,4,action,1.0,add,action,8,12.427413,5.76876

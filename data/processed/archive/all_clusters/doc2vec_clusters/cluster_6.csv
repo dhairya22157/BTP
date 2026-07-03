@@ -1,0 +1,2 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,doc2vec_cluster,umap_x,umap_y
+toast,light cooking,brown with heat,brown with dry heat,heat until crisp,enhance flavor,toast bread,,brown with heat brown with dry heat heat until crisp enhance flavor,5,heat plus cool item,0.3873092001071206,toast,6,-1.6234564,1.4298757

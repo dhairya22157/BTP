@@ -1,0 +1,3 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,foodbert_cluster,foodbert_umap_x,foodbert_umap_y
+crimp,shape change,shape change slight,pinch edges together,seal pastry decoratively,press to close dough,crimp pie crust edges,,shape change slight pinch edges together seal pastry decoratively press to close dough,5,shape change,1.0,crimp,12,7.4055867,4.1811614
+tie,action,bind,bind with string,secure ingredients,hold shape while cooking,tie roast with twine,,bind bind with string secure ingredients hold shape while cooking,4,sound,0.0,tie,12,6.4030747,3.792556

@@ -1,0 +1,4 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,pubmedbert_cluster,umap_x,umap_y
+thread,action,string attaching,slide onto skewer,string ingredients together,arrange in a line,thread vegetables onto skewers,,string attaching slide onto skewer string ingredients together arrange in a line,4,sound,0.0,thread,18,2.086849,2.426753
+tuck,shape change,small shape change,push neatly into place,secure edges,hide excess,tuck dough edges under,,small shape change push neatly into place secure edges hide excess,2,shape change,1.0,tuck,18,1.4205413,2.6687086
+stack,shape change,shape change,place items on top of each other,arrange in layers,pile neatly,stack pancakes,,shape change place items on top of each other arrange in layers pile neatly,5,shape change,1.0,stack,18,1.3986914,2.8411787

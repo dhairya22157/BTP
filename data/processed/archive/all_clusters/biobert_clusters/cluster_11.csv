@@ -1,0 +1,4 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,REMARK,biobert_cluster,umap_x,umap_y
+uncover,action,action,remove lid or cover,expose food during cooking,allow browning or evaporation,uncover pot to reduce sauce,,action remove lid or cover expose food during cooking allow browning or evaporation,5,action,1.0,uncover,action,11,11.590595,7.8355255
+uncovered,action,action,not covered during cooking,exposed to air,allow evaporation,bake uncovered,,action not covered during cooking exposed to air allow evaporation,5,action,1.0,uncovered,action,11,11.520973,8.121701
+raise,action,action,increase height or level,cause dough to grow,elevate mixture,yeast raises dough,,action increase height or level cause dough to grow elevate mixture,2,action,1.0,raise,action,11,10.799352,6.3507605

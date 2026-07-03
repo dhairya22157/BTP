@@ -1,0 +1,4 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,pubmedbert_cluster,umap_x,umap_y
+devein,cleaning,clean fish,remove vein from seafood,clean shrimp vein,extract digestive tract,devein shrimp before cooking,,clean fish remove vein from seafood clean shrimp vein extract digestive tract,3,sound,0.0,devein,16,-0.91520613,3.1804483
+sieve,filtering,filtering particles,strain dry or wet ingredients,separate fine particles,refine texture,sieve flour,,filtering particles strain dry or wet ingredients separate fine particles refine texture,3,filtering,1.0,sieve,16,-1.3513668,2.5487664
+strain,filtering,filter,separate liquid from solids,filter mixture,remove particles,strain broth,,filter separate liquid from solids filter mixture remove particles,5,sound,0.0,strain,16,-1.1983529,2.6700919

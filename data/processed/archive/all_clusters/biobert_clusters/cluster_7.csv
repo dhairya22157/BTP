@@ -1,0 +1,3 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,REMARK,biobert_cluster,umap_x,umap_y
+massage,flavoring,flavor change,rub gently by hand,work ingredients softly,change texture by rubbing,massage kale with oil,,flavor change rub gently by hand work ingredients softly change texture by rubbing,2,shape change,0.5773502691896257,massage,flavoring,7,11.025412,7.049094
+sweat,light cooking,cook slowly,soften without browning,release moisture gently,cook slowly in fat,sweat onions,,cook slowly soften without browning release moisture gently cook slowly in fat,5,sound,0.0,sweat,light cooking,7,12.735127,9.31733

@@ -1,0 +1,2 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,doc2vec_cluster,umap_x,umap_y
+saute,more cooking,high heat cooking,cook quickly in small fat,high-heat frying,shallow pan cooking,saute onions,,high heat cooking cook quickly in small fat high-heat frying shallow pan cooking,5,heat plus cool item,0.3087890209920528,saute,10,-1.9434769,1.059901

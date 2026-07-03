@@ -1,0 +1,2 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,doc2vec_cluster,umap_x,umap_y
+squeeze,action,action,press to extract liquid,remove juice,apply pressure,squeeze lemon juice,,action press to extract liquid remove juice apply pressure,5,action,1.0,squeeze,2,-1.4991246,1.5790045

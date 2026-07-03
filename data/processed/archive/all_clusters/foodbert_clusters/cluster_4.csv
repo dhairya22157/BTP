@@ -1,0 +1,4 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,foodbert_cluster,foodbert_umap_x,foodbert_umap_y
+devein,cleaning,clean fish,remove vein from seafood,clean shrimp vein,extract digestive tract,devein shrimp before cooking,,clean fish remove vein from seafood clean shrimp vein extract digestive tract,3,sound,0.0,devein,4,6.036149,6.6016912
+unmold,action,take out of mold,remove from mold,release shaped food,turn out of container,unmold pudding,,take out of mold remove from mold release shaped food turn out of container,2,mixture of flour,0.447213595499958,unmold,4,6.8455505,5.8645997
+trim,remove unwanted item,remove unwanted item,remove excess parts,cut unwanted edges,neaten ingredient,trim fat from meat,,remove unwanted item remove excess parts cut unwanted edges neaten ingredient,2,remove unwanted item,1.0,trim,4,6.7225504,5.9314556

@@ -1,0 +1,65 @@
+========== STEP 1: Setup ==========
+
+========== STEP 2: Load Data ==========
+Loaded 271 protocols.
+
+========== STEP 3: Generate SBERT Embeddings ==========
+Loading SBERT model...
+Generating embeddings...
+
+========== STEP 4: Compute Cosine Similarity Matrix ==========
+Cosine similarity matrix computed. Shape: (271, 271)
+
+========== STEP 5: Clustering with Fixed K ==========
+
+>>>>>>>>>> RUNNING WITH K=30 <<<<<<<<<<
+Clustering with n_clusters=30...
+
+--- Results for K=30 ---
+Ground Truth: first2
+Matched samples: 270
+ARI Score: 0.3464
+Ground Truth: updated
+Matched samples: 270
+ARI Score: 0.5360
+
+Top 10 largest clusters:
+cluster
+0     48
+18    32
+2     29
+6     23
+4     20
+7     12
+13    11
+10    10
+8     10
+5     10
+
+>>>>>>>>>> RUNNING WITH K=37 <<<<<<<<<<
+Clustering with n_clusters=37...
+
+--- Results for K=37 ---
+Ground Truth: first2
+Matched samples: 270
+ARI Score: 0.3666
+Ground Truth: updated
+Matched samples: 270
+ARI Score: 0.5848
+
+Top 10 largest clusters:
+cluster
+10    28
+14    27
+35    25
+6     23
+1     21
+0     20
+7     12
+13    11
+2     10
+4     10
+
+========================================
+========== DONE ==========
+========================================

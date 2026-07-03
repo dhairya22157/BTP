@@ -1,0 +1,2 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,foodbert_cluster,foodbert_umap_x,foodbert_umap_y,cookbert_cluster,cookbert_umap_x,cookbert_umap_y
+yield,output,output,produce amount,provide output,result in quantity,dough yields 12 rolls,,output produce amount provide output result in quantity,1,output,1.0,yield,17,5.8768883,5.0215425,29,8.568433,4.6641555

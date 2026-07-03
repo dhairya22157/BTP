@@ -1,0 +1,2 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,foodbert_cluster,foodbert_umap_x,foodbert_umap_y,cookbert_cluster,cookbert_umap_x,cookbert_umap_y
+dash,unit,unit,add small amount,quick light addition,minimal quantity,dash of salt,,unit add small amount quick light addition minimal quantity,1,unit,1.0,dash,17,5.9563284,4.9353166,9,9.450183,4.8074803

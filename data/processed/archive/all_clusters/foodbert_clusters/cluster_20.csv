@@ -1,0 +1,4 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,foodbert_cluster,foodbert_umap_x,foodbert_umap_y
+stirring,mixing,mixing,moving ingredients around,mixing continuously,prevent sticking,stirring sauce,,mixing moving ingredients around mixing continuously prevent sticking,4,mixing,1.0,stirring,20,6.0227456,3.5230231
+stuff,mixing,add mixing,fill with mixture,pack ingredients inside,insert filling,stuff peppers,,add mixing fill with mixture pack ingredients inside insert filling,4,mixing,0.746061359591966,stuff,20,4.35432,2.1766095
+stir,mixing,mixing,mix by rotating,move ingredients around,prevent sticking,stir soup,,mixing mix by rotating move ingredients around prevent sticking,4,mixing,1.0,stir,20,5.8207755,3.5318043

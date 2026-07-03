@@ -1,0 +1,4 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,REMARK,biobert_cluster,umap_x,umap_y
+presentation,decoration,food decoration,visual arrangement of food,how food is served,plating style,good presentation improves appeal,,food decoration visual arrangement of food how food is served plating style,5,decoration,1.0,presentation,decoration,1,12.97894,6.6509423
+arrange,action,action,place neatly,organize food visually,prepare presentation,arrange vegetables on plate,,action place neatly organize food visually prepare presentation,5,action,1.0,arrange,action,1,12.987009,6.3413916
+serve,decoration,prepare,present food for eating,offer to diners,distribute dishes,serve salad,,prepare present food for eating offer to diners distribute dishes,5,sound,0.0,serve,decoration,1,13.085878,6.5417857

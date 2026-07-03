@@ -1,0 +1,2 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,REMARK,biobert_cluster,umap_x,umap_y
+open,action,action,uncover or unfold,remove lid,expose ingredients,open jar of sauce,,action uncover or unfold remove lid expose ingredients,5,action,1.0,open,action,28,10.40553,5.2657914

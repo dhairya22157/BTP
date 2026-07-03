@@ -1,0 +1,3 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,pubmedbert_cluster,umap_x,umap_y
+scorching,more cooking,high heat cooking,extremely hot,burning surface heat,risk of burning food,scorching pan heat,,high heat cooking extremely hot burning surface heat risk of burning food,5,heat plus cool item,0.3087890209920528,scorching,22,-3.7903066,2.5441778
+uncovered,action,action,not covered during cooking,exposed to air,allow evaporation,bake uncovered,,action not covered during cooking exposed to air allow evaporation,5,action,1.0,uncovered,22,-2.8055944,2.4011579

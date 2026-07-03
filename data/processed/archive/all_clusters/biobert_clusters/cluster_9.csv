@@ -1,0 +1,6 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,REMARK,biobert_cluster,umap_x,umap_y
+refrigerate,shape change,shape change,keep cold for storage,store in refrigerator,slow food spoilage,refrigerate leftovers,,shape change keep cold for storage store in refrigerator slow food spoilage,5,shape change,1.0,refrigerate,shape change,9,11.631171,8.725098
+store,action,place,keep for later use,place in storage,preserve food properly,store leftovers,,place keep for later use place in storage preserve food properly,5,sound,0.0,store,action,9,11.072744,8.972167
+pack,decoration,prepare,place tightly into container,fill storage,organize food,packed lunch box,,prepare place tightly into container fill storage organize food,5,sound,0.0,pack,decoration,9,10.928998,8.4367695
+save,action,action,keep for later,reserve portion,store ingredient,save leftover sauce,,action keep for later reserve portion store ingredient,5,action,1.0,save,action,9,10.904078,9.098957
+taste,action,action,sample for flavor,check seasoning,test doneness,taste soup before serving,,action sample for flavor check seasoning test doneness,5,action,1.0,taste,action,9,12.41739,7.6173453

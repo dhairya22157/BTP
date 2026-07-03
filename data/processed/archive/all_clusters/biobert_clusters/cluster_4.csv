@@ -1,0 +1,4 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,REMARK,biobert_cluster,umap_x,umap_y
+select,action,choosing,choose carefully,pick desired items,decide on ingredients,select ripe tomatoes,,choosing choose carefully pick desired items decide on ingredients,5,sound,0.0,select,action,4,11.883213,5.032403
+pick,action,action,choose or remove carefully,select small items,pluck gently,pick herbs,,action choose or remove carefully select small items pluck gently,5,action,1.0,pick,action,4,11.67367,5.266533
+sort,decoration,prepare,arrange by type,separate items,organize ingredients,sort beans,,prepare arrange by type separate items organize ingredients,5,sound,0.0,sort,decoration,4,12.170928,4.933974

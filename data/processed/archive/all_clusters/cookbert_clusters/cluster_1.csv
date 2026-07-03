@@ -1,0 +1,2 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,foodbert_cluster,foodbert_umap_x,foodbert_umap_y,cookbert_cluster,cookbert_umap_x,cookbert_umap_y
+stack,shape change,shape change,place items on top of each other,arrange in layers,pile neatly,stack pancakes,,shape change place items on top of each other arrange in layers pile neatly,5,shape change,1.0,stack,6,7.3646226,5.157913,1,8.833821,3.1889188

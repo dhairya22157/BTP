@@ -1,0 +1,17 @@
+============================================================
+FINAL REFINED ARI SCORES (Re-clustered on 2D UMAP)
+============================================================
+Method               | Refined ARI  | Best K
+--------------------------------------------------
+biobert_clusters     | 0.0841       | 45    
+cookbert_clusters    | 0.1662       | 34    
+doc2vec_clusters     | 0.0057       | 18    
+foodbert_clusters    | 0.1380       | 45    
+pubmedbert_clusters  | 0.1854       | 26    
+--------------------------------------------------
+
+
+Assumptions:
+1. Used available 2D UMAP coordinates as input features (High-D embeddings not found).
+2. Searched K in range [15, 45] using Silhouette Score.
+3. Used Agglomerative Clustering (Ward linkage) on Scaled 2D features.

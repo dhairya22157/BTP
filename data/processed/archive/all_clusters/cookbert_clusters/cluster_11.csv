@@ -1,0 +1,7 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,foodbert_cluster,foodbert_umap_x,foodbert_umap_y,cookbert_cluster,cookbert_umap_x,cookbert_umap_y
+slash,cutting,cut item,make long cut,score surface,allow expansion,slash bread dough,,cut item make long cut score surface allow expansion,2,item,1.0,slash,13,8.03316,4.341092,11,8.260947,2.5544467
+replace,action,action,put back in place,swap items,substitute ingredient,replace lid on pot,,action put back in place swap items substitute ingredient,5,action,1.0,replace,18,5.2530146,5.163371,11,8.097281,3.1471915
+reserve,action,action,set aside for later,keep portion,save ingredient,reserve some sauce,,action set aside for later keep portion save ingredient,5,action,1.0,reserve,17,4.426084,5.3952866,11,8.123524,3.0649722
+save,action,action,keep for later,reserve portion,store ingredient,save leftover sauce,,action keep for later reserve portion store ingredient,5,action,1.0,save,17,4.38038,5.521802,11,8.323812,3.190891
+remove,action,action,take away,extract ingredient,discard,remove skin from fish,,action take away extract ingredient discard,5,action,1.0,remove,17,4.8169694,5.6150684,11,8.16657,3.2001953
+take,action,action,remove or pick up,carry away,grab ingredient,take pan off heat,,action remove or pick up carry away grab ingredient,5,action,1.0,take,9,6.436561,5.7049956,11,8.090456,3.233416

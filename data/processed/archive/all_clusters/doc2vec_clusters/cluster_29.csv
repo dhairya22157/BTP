@@ -1,0 +1,2 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,doc2vec_cluster,umap_x,umap_y
+fry,more cooking,high heat cooking,cook in hot oil,cook in fat,high-heat method,fry eggs,,high heat cooking cook in hot oil cook in fat high-heat method,5,heat plus cool item,0.3087890209920528,fry,29,-3.6655674,-0.25074655

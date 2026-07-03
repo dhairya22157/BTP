@@ -1,0 +1,2 @@
+Method,ARI,BestK
+TFIDF+Cosine+Avg,0.3954,23

@@ -1,0 +1,11 @@
+========================================
+FINAL ARI SCORES
+========================================
+Method               | ARI Score  | Samples   
+----------------------------------------------
+biobert_clusters     | 0.1179       | 270       
+cookbert_clusters    | 0.1980       | 270       
+doc2vec_clusters     | -0.0059       | 270       
+foodbert_clusters    | 0.1246       | 270       
+pubmedbert_clusters  | 0.0477       | 270       
+----------------------------------------------

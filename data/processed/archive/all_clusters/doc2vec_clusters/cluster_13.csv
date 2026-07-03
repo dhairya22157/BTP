@@ -1,0 +1,2 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,doc2vec_cluster,umap_x,umap_y
+brush,action,action,apply liquid lightly,spread using brush,coat surface,brush oil on bread,,action apply liquid lightly spread using brush coat surface,5,action,1.0,brush,13,-2.235987,0.7623941

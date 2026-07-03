@@ -1,0 +1,14 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,foodbert_cluster,foodbert_umap_x,foodbert_umap_y
+stop,action,action,end a process,prevent continuation,cease cooking action,stop cooking to avoid burning,,action end a process prevent continuation cease cooking action,5,action,1.0,stop,17,4.528607,5.0674934
+assemble,action,action,put components together,combine prepared parts,build final dish,assemble sandwich,,action put components together combine prepared parts build final dish,4,action,1.0,assemble,17,5.3961377,4.1426773
+arrange,action,action,place neatly,organize food visually,prepare presentation,arrange vegetables on plate,,action place neatly organize food visually prepare presentation,5,action,1.0,arrange,17,5.7087307,4.412767
+measure,unit,unit,determine exact amount,use measuring tools,portion ingredients accurately,measure flour,,unit determine exact amount use measuring tools portion ingredients accurately,1,unit,1.0,measure,17,5.757783,5.0878563
+sort,decoration,prepare,arrange by type,separate items,organize ingredients,sort beans,,prepare arrange by type separate items organize ingredients,5,sound,0.0,sort,17,5.6749735,4.8041725
+prepare,decoration,prepare,make ready for cooking,complete initial steps,organize ingredients,prepare ingredients,,prepare make ready for cooking complete initial steps organize ingredients,5,sound,0.0,prepare,17,5.3948054,4.546365
+dash,unit,unit,add small amount,quick light addition,minimal quantity,dash of salt,,unit add small amount quick light addition minimal quantity,1,unit,1.0,dash,17,5.9563284,4.9353166
+yield,output,output,produce amount,provide output,result in quantity,dough yields 12 rolls,,output produce amount provide output result in quantity,1,output,1.0,yield,17,5.8768883,5.0215425
+reserve,action,action,set aside for later,keep portion,save ingredient,reserve some sauce,,action set aside for later keep portion save ingredient,5,action,1.0,reserve,17,4.426084,5.3952866
+fill,action,action,add content to container,stuff ingredient,complete portion,fill pastry with cream,,action add content to container stuff ingredient complete portion,5,action,1.0,fill,17,5.7025914,4.9326015
+save,action,action,keep for later,reserve portion,store ingredient,save leftover sauce,,action keep for later reserve portion store ingredient,5,action,1.0,save,17,4.38038,5.521802
+remove,action,action,take away,extract ingredient,discard,remove skin from fish,,action take away extract ingredient discard,5,action,1.0,remove,17,4.8169694,5.6150684
+note,action,action,observe or record,pay attention,mark details,note oven temperature,,action observe or record pay attention mark details,5,action,1.0,note,17,4.4239354,5.499464

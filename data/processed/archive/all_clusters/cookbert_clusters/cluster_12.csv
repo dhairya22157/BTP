@@ -1,0 +1,3 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,foodbert_cluster,foodbert_umap_x,foodbert_umap_y,cookbert_cluster,cookbert_umap_x,cookbert_umap_y
+decorate,decoration,presentation,add visual detail,garnish food,improve appearance,decorate cake,,presentation add visual detail garnish food improve appearance,5,sound,0.0,decorate,10,4.988951,2.9389534,12,8.803819,5.0985456
+garnish,decoration,decorate,decorate dish,add finishing touch,improve appearance,garnish with herbs,,decorate decorate dish add finishing touch improve appearance,5,sound,0.0,garnish,10,6.855932,3.7987976,12,9.550176,4.390427

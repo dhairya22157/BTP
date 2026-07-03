@@ -1,0 +1,7 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,foodbert_cluster,foodbert_umap_x,foodbert_umap_y
+presentation,decoration,food decoration,visual arrangement of food,how food is served,plating style,good presentation improves appeal,,food decoration visual arrangement of food how food is served plating style,5,decoration,1.0,presentation,7,4.7576466,3.0537598
+dollop,unit,measuring unit,small rounded amount,spoonful portion,soft mound of food,dollop of cream,,measuring unit small rounded amount spoonful portion soft mound of food,1,unit,1.0,dollop,7,6.349406,4.870159
+carve,cutting,cut item,cut cooked meat,slice neatly,prepare servings,carve roast,,cut item cut cooked meat slice neatly prepare servings,2,item,1.0,carve,7,8.381363,4.0395007
+ladle,utensils,utensil,serve with deep spoon,pour using ladle,transfer liquid food,ladle soup into bowl,,utensil serve with deep spoon pour using ladle transfer liquid food,5,sound,0.0,ladle,7,5.4544024,3.70205
+scoop,unit,unit,lift with spoon,remove portion,serve rounded amount,scoop ice cream,,unit lift with spoon remove portion serve rounded amount,1,unit,1.0,scoop,7,6.545682,4.9889674
+serve,decoration,prepare,present food for eating,offer to diners,distribute dishes,serve salad,,prepare present food for eating offer to diners distribute dishes,5,sound,0.0,serve,7,4.796835,3.2137344

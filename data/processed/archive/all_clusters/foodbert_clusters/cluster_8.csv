@@ -1,0 +1,7 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,foodbert_cluster,foodbert_umap_x,foodbert_umap_y
+scrub,cleaning,cleaning,clean by rubbing firmly,wash vegetables thoroughly,remove dirt,scrub potatoes,,cleaning clean by rubbing firmly wash vegetables thoroughly remove dirt,3,cleaning,1.0,scrub,8,5.946569,6.8690953
+scrape,cleaning,clean,remove by dragging tool,collect residue,clean surface,scrape pan bottom,,clean remove by dragging tool collect residue clean surface,3,sound,0.0,scrape,8,6.0071025,6.741537
+rinse,cleaning,clean,wash lightly with water,remove residue or starch,clean briefly,rinse rice,,clean wash lightly with water remove residue or starch clean briefly,3,sound,0.0,rinse,8,5.891584,6.9256763
+wipe,cleaning,clean,clean surface lightly,remove residue with cloth,dry or clean gently,wipe cutting board,,clean clean surface lightly remove residue with cloth dry or clean gently,3,sound,0.0,wipe,8,5.925977,6.872491
+wash,cleaning,clean,clean with water,remove dirt or residue,prepare for use,wash vegetables,,clean clean with water remove dirt or residue prepare for use,3,sound,0.0,wash,8,5.812898,6.8884687
+clean,cleaning,clean,remove dirt,wash thoroughly,prepare hygienically,clean vegetables,,clean remove dirt wash thoroughly prepare hygienically,3,sound,0.0,clean,8,5.8443227,6.778568

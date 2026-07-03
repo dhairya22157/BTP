@@ -1,0 +1,4 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,REMARK,biobert_cluster,umap_x,umap_y
+style,decoration,decorate,arrange attractively,shape presentation,decorate food,style plated dessert,,decorate arrange attractively shape presentation decorate food,5,sound,0.0,style,decoration,6,11.205855,7.515969
+garnish,decoration,decorate,decorate dish,add finishing touch,improve appearance,garnish with herbs,,decorate decorate dish add finishing touch improve appearance,5,sound,0.0,garnish,decoration,6,11.076234,7.585614
+top,decoration,prepare,place on upper surface,add finishing layer,decorate,top cake with strawberries,,prepare place on upper surface add finishing layer decorate,5,sound,0.0,top,decoration,6,9.788882,7.024079

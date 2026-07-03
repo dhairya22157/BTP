@@ -1,0 +1,2 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,doc2vec_cluster,umap_x,umap_y
+frost,coating,layoring with frost,cover with icing,apply frosting,decorate baked goods,frost a cake,,layoring with frost cover with icing apply frosting decorate baked goods,5,sound,0.0,frost,4,-1.6012897,1.4562085

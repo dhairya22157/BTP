@@ -1,0 +1,3 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,foodbert_cluster,foodbert_umap_x,foodbert_umap_y,cookbert_cluster,cookbert_umap_x,cookbert_umap_y
+unwrap,action,action,remove covering,take off packaging,expose food,unwrap chocolate,,action remove covering take off packaging expose food,5,action,1.0,unwrap,9,6.7691307,5.724015,10,11.561017,3.2494614
+open,action,action,uncover or unfold,remove lid,expose ingredients,open jar of sauce,,action uncover or unfold remove lid expose ingredients,5,action,1.0,open,9,6.660021,5.5401926,10,8.349089,2.8405168

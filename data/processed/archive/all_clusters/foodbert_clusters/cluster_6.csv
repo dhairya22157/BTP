@@ -1,0 +1,10 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,foodbert_cluster,foodbert_umap_x,foodbert_umap_y
+distribute,separate items,spread parts,spread evenly,divide among parts,arrange throughout dish,distribute toppings evenly,,spread parts spread evenly divide among parts arrange throughout dish,5,sound,0.0,distribute,6,6.4607415,1.6571115
+spray,add water,add liquid,apply as fine mist,distribute liquid lightly,coat evenly,spray oil on pan,,add liquid apply as fine mist distribute liquid lightly coat evenly,5,liquid leftover,0.4307387267923997,spray,6,6.0987763,1.8078139
+scatter,decoration,decoration,spread loosely,distribute lightly over surface,arrange evenly,scatter herbs on dish,,decoration spread loosely distribute lightly over surface arrange evenly,5,decoration,1.0,scatter,6,6.3396406,1.6097819
+dust,action,sprinkling item,lightly sprinkle powder,add fine coating,coat gently,dust cake with sugar,,sprinkling item lightly sprinkle powder add fine coating coat gently,5,item,1.0,dust,6,5.929251,1.8841041
+stack,shape change,shape change,place items on top of each other,arrange in layers,pile neatly,stack pancakes,,shape change place items on top of each other arrange in layers pile neatly,5,shape change,1.0,stack,6,7.3646226,5.157913
+slather,coating,coating,spread thickly,coat generously,apply in large amount,slather butter on bread,,coating spread thickly coat generously apply in large amount,5,coating,1.0,slather,6,6.2587004,2.127572
+sprinkle,action,sprinkle item,scatter small amounts,lightly add topping,distribute evenly,sprinkle sugar on cake,,sprinkle item scatter small amounts lightly add topping distribute evenly,5,item,1.0,sprinkle,6,6.2710547,1.7309984
+spread,coating,coating,apply evenly,distribute across surface,coat,spread butter on toast,,coating apply evenly distribute across surface coat,5,coating,1.0,spread,6,6.2533045,1.8153948
+butter,coating,apply,apply butter,add fat,spread over surface,butter the pan,,apply apply butter add fat spread over surface,5,sound,0.0,butter,6,6.14684,2.275686

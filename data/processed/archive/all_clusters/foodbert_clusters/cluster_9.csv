@@ -1,0 +1,12 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,foodbert_cluster,foodbert_umap_x,foodbert_umap_y
+uncover,action,action,remove lid or cover,expose food during cooking,allow browning or evaporation,uncover pot to reduce sauce,,action remove lid or cover expose food during cooking allow browning or evaporation,5,action,1.0,uncover,9,4.4074283,3.90444
+uncovered,action,action,not covered during cooking,exposed to air,allow evaporation,bake uncovered,,action not covered during cooking exposed to air allow evaporation,5,action,1.0,uncovered,9,4.517079,3.755292
+seal,action,action,close tightly,lock in moisture,prevent air entry,seal container,,action close tightly lock in moisture prevent air entry,5,action,1.0,seal,9,4.8304167,3.9735696
+pick,action,action,choose or remove carefully,select small items,pluck gently,pick herbs,,action choose or remove carefully select small items pluck gently,5,action,1.0,pick,9,6.317266,5.411822
+unwrap,action,action,remove covering,take off packaging,expose food,unwrap chocolate,,action remove covering take off packaging expose food,5,action,1.0,unwrap,9,6.7691307,5.724015
+foil,decoration,prepare,wrap in metal sheet,cover with aluminum,protect food during cooking,foil fish before baking,,prepare wrap in metal sheet cover with aluminum protect food during cooking,5,sound,0.0,foil,9,4.5668373,3.8067205
+unfold,shape change,shape change,open folded item,spread out flat,expose layers,unfold puff pastry,,shape change open folded item spread out flat expose layers,5,shape change,1.0,unfold,9,7.2234697,5.012554
+wrap,action,action,cover with material,enclose food,seal ingredients,wrap sandwich in foil,,action cover with material enclose food seal ingredients,5,action,1.0,wrap,9,4.6681547,3.9715452
+open,action,action,uncover or unfold,remove lid,expose ingredients,open jar of sauce,,action uncover or unfold remove lid expose ingredients,5,action,1.0,open,9,6.660021,5.5401926
+cover,action,action,place lid on top,protect from heat or moisture,seal container,cover pot while simmering,,action place lid on top protect from heat or moisture seal container,5,action,1.0,cover,9,4.527489,4.037039
+take,action,action,remove or pick up,carry away,grab ingredient,take pan off heat,,action remove or pick up carry away grab ingredient,5,action,1.0,take,9,6.436561,5.7049956

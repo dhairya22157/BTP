@@ -1,0 +1,3 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,pubmedbert_cluster,umap_x,umap_y
+twist,action,action,turn or coil,rotate ends,shape ingredient,twist breadsticks,,action turn or coil rotate ends shape ingredient,5,action,1.0,twist,4,2.7150755,2.0697763
+push,action,action,move by applying pressure,press forward,shift ingredient,push dough into pan,,action move by applying pressure press forward shift ingredient,5,action,1.0,push,4,2.6464386,1.9568849

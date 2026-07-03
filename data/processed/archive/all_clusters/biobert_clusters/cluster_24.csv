@@ -1,0 +1,7 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,REMARK,biobert_cluster,umap_x,umap_y
+thread,action,string attaching,slide onto skewer,string ingredients together,arrange in a line,thread vegetables onto skewers,,string attaching slide onto skewer string ingredients together arrange in a line,4,sound,0.0,thread,action,24,8.927589,5.4243736
+twist,action,action,turn or coil,rotate ends,shape ingredient,twist breadsticks,,action turn or coil rotate ends shape ingredient,5,action,1.0,twist,action,24,9.310326,5.643481
+stack,shape change,shape change,place items on top of each other,arrange in layers,pile neatly,stack pancakes,,shape change place items on top of each other arrange in layers pile neatly,5,shape change,1.0,stack,shape change,24,9.098838,5.538476
+mound,shape change,shape change,shape into small heap,pile food loosely,form round pile,mound rice on plate,,shape change shape into small heap pile food loosely form round pile,2,shape change,1.0,mound,shape change,24,9.160374,5.4807115
+roll,shape change,shape change,flatten or shape by rolling,form cylinder,shape dough,roll out pastry,,shape change flatten or shape by rolling form cylinder shape dough,2,shape change,1.0,roll,shape change,24,9.315345,5.785558
+turn,action,action,flip or rotate,change side or orientation,move position,turn steak in pan,,action flip or rotate change side or orientation move position,5,action,1.0,turn,action,24,9.486809,5.6309705

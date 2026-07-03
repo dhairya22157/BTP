@@ -1,0 +1,6 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,foodbert_cluster,foodbert_umap_x,foodbert_umap_y,cookbert_cluster,cookbert_umap_x,cookbert_umap_y
+select,action,choosing,choose carefully,pick desired items,decide on ingredients,select ripe tomatoes,,choosing choose carefully pick desired items decide on ingredients,5,sound,0.0,select,28,6.313476,5.3234763,5,8.459164,4.00595
+handle,action,action,touch and move food,manage ingredients carefully,work with gently,handle dough lightly,,action touch and move food manage ingredients carefully work with gently,5,action,1.0,handle,19,5.72766,3.9030325,5,8.611747,4.275346
+shake,action,action,move back and forth,agitate ingredients,mix lightly,shake dressing,,action move back and forth agitate ingredients mix lightly,4,action,1.0,shake,19,4.973788,4.614741,5,8.732505,4.0436354
+pick,action,action,choose or remove carefully,select small items,pluck gently,pick herbs,,action choose or remove carefully select small items pluck gently,5,action,1.0,pick,9,6.317266,5.411822,5,8.396336,4.00643
+put,action,action,place somewhere,set ingredient down,add to dish,put vegetables in pot,,action place somewhere set ingredient down add to dish,5,action,1.0,put,15,5.6244726,4.441164,5,8.766849,4.134207

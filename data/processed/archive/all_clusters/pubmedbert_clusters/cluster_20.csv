@@ -1,0 +1,10 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,pubmedbert_cluster,umap_x,umap_y
+settle,action,action,allow to rest,let ingredients stabilize,pause before next step,let batter settle,,action allow to rest let ingredients stabilize pause before next step,5,action,1.0,settle,20,2.7239645,3.4002807
+repeat,action,action,do again,perform step once more,carry out same action,repeat stirring process,,action do again perform step once more carry out same action,5,action,1.0,repeat,20,2.425006,2.674067
+arrange,action,action,place neatly,organize food visually,prepare presentation,arrange vegetables on plate,,action place neatly organize food visually prepare presentation,5,action,1.0,arrange,20,2.3257873,2.7286756
+stand,action,action,allow to rest,let sit without movement,pause process,let dough stand,,action allow to rest let sit without movement pause process,5,action,1.0,stand,20,2.8061512,3.2902088
+hold,action,action,keep at certain temperature,maintain position or state,preserve food,hold soup warm,,action keep at certain temperature maintain position or state preserve food,5,action,1.0,hold,20,2.9437256,3.5263205
+sit,action,action,rest without disturbance,allow to stand,pause process,let dough sit for 10 minutes,,action rest without disturbance allow to stand pause process,5,action,1.0,sit,20,2.9350305,3.3247242
+wait,action,action,pause before next step,allow time to pass,delay action,wait for dough to rise,,action pause before next step allow time to pass delay action,5,action,1.0,wait,20,2.6848354,3.186633
+rest,action,action,let food stand,allow to settle,pause cooking,rest meat after roasting,,action let food stand allow to settle pause cooking,5,action,1.0,rest,20,2.643563,3.4006886
+set,action,action,allow to firm,let rest until stable,fix shape,set jelly in fridge,,action allow to firm let rest until stable fix shape,5,action,1.0,set,20,2.8501158,3.470043

@@ -1,0 +1,2 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,doc2vec_cluster,umap_x,umap_y
+poach,water cooking,cook in water,cook gently in liquid,low-temperature simmering,moist cooking method,poach eggs,,cook in water cook gently in liquid low-temperature simmering moist cooking method,5,water cooking,0.5454499149998363,poach,28,-3.6875198,-0.27548712

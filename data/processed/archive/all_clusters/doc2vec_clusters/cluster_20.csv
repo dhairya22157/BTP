@@ -1,0 +1,2 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,doc2vec_cluster,umap_x,umap_y
+dry,reduce water,remove liquid,eliminate moisture,remove water,make surface dry,dry washed lettuce,,remove liquid eliminate moisture remove water make surface dry,5,liquid leftover,0.408248290463863,dry,20,-3.383611,-0.326275

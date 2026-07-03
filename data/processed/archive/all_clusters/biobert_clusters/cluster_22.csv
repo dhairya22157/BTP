@@ -1,0 +1,3 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,REMARK,biobert_cluster,umap_x,umap_y
+distribute,separate items,spread parts,spread evenly,divide among parts,arrange throughout dish,distribute toppings evenly,,spread parts spread evenly divide among parts arrange throughout dish,5,sound,0.0,distribute,separate items,22,8.814654,4.964984
+scatter,decoration,decoration,spread loosely,distribute lightly over surface,arrange evenly,scatter herbs on dish,,decoration spread loosely distribute lightly over surface arrange evenly,5,decoration,1.0,scatter,decoration,22,9.073866,5.3229656

@@ -1,0 +1,5 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,foodbert_cluster,foodbert_umap_x,foodbert_umap_y
+sieve,filtering,filtering particles,strain dry or wet ingredients,separate fine particles,refine texture,sieve flour,,filtering particles strain dry or wet ingredients separate fine particles refine texture,3,filtering,1.0,sieve,23,6.486189,2.7744176
+sift,utensils,tool,pass through sieve,aerate dry ingredients,remove lumps,sift flour,,tool pass through sieve aerate dry ingredients remove lumps,3,sound,0.0,sift,23,6.2091036,3.0357974
+blitz,cutting,cut item heavily,process quickly in blender,puree rapidly,blend at high speed,blitz soup,,cut item heavily process quickly in blender puree rapidly blend at high speed,2,item,1.0,blitz,23,7.712166,2.2374687
+strain,filtering,filter,separate liquid from solids,filter mixture,remove particles,strain broth,,filter separate liquid from solids filter mixture remove particles,5,sound,0.0,strain,23,5.7989426,1.8915373

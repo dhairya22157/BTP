@@ -1,0 +1,7 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,REMARK,biobert_cluster,umap_x,umap_y
+stop,action,action,end a process,prevent continuation,cease cooking action,stop cooking to avoid burning,,action end a process prevent continuation cease cooking action,5,action,1.0,stop,action,5,12.054009,4.845696
+snap,cutting,cut item,break cleanly,crack sharply,test crispness,beans snap when fresh,,cut item break cleanly crack sharply test crispness,2,item,1.0,snap,cutting,5,10.59846,5.4186015
+prepare,decoration,prepare,make ready for cooking,complete initial steps,organize ingredients,prepare ingredients,,prepare make ready for cooking complete initial steps organize ingredients,5,sound,0.0,prepare,decoration,5,12.213725,4.906386
+test,action,action,check doneness,examine readiness,verify cooking result,test cake with toothpick,,action check doneness examine readiness verify cooking result,5,action,1.0,test,action,5,12.066723,4.5288105
+check,action,prepare,inspect or test,verify cooking progress,ensure readiness,check cake for doneness,,prepare inspect or test verify cooking progress ensure readiness,5,sound,0.0,check,action,5,11.635041,6.586522
+start,action,action,begin cooking,initiate process,turn on appliance,start oven preheating,,action begin cooking initiate process turn on appliance,5,action,1.0,start,action,5,12.170267,4.7728534

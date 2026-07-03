@@ -1,0 +1,4 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,REMARK,biobert_cluster,umap_x,umap_y
+slash,cutting,cut item,make long cut,score surface,allow expansion,slash bread dough,,cut item make long cut score surface allow expansion,2,item,1.0,slash,cutting,19,8.84613,6.003411
+dash,unit,unit,add small amount,quick light addition,minimal quantity,dash of salt,,unit add small amount quick light addition minimal quantity,1,unit,1.0,dash,unit,19,10.26772,7.029955
+slather,coating,coating,spread thickly,coat generously,apply in large amount,slather butter on bread,,coating spread thickly coat generously apply in large amount,5,coating,1.0,slather,coating,19,10.218822,7.0445185

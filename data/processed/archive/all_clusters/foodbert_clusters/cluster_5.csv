@@ -1,0 +1,4 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,foodbert_cluster,foodbert_umap_x,foodbert_umap_y
+floured,action,sprinkling flour,coated with flour,dusted to prevent sticking,lightly covered in flour,floured surface for rolling dough,,sprinkling flour coated with flour dusted to prevent sticking lightly covered in flour,4,mixture of flour,0.447213595499958,floured,5,5.6759305,2.0186055
+grease,coating,coat with fat,coat with fat,apply oil or butter,prevent sticking,grease baking pan,,coat with fat coat with fat apply oil or butter prevent sticking,5,sound,0.0,grease,5,5.440061,2.0718746
+dredge,coating,coating,coat lightly with flour,cover before cooking,prepare for frying,dredge fish in flour,,coating coat lightly with flour cover before cooking prepare for frying,4,coating,1.0,dredge,5,5.328457,2.0614796

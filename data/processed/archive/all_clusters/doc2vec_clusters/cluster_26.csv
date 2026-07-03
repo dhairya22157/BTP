@@ -1,0 +1,2 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,doc2vec_cluster,umap_x,umap_y
+thicken,reduce water,reduce liquid,increase density,reduce liquid,add body to sauce,thicken gravy,,reduce liquid increase density reduce liquid add body to sauce,5,reduce water,0.4330430737670977,thicken,26,-3.6411731,-0.34848678

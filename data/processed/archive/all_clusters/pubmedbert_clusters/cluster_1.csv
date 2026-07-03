@@ -1,0 +1,3 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,pubmedbert_cluster,umap_x,umap_y
+shake,action,action,move back and forth,agitate ingredients,mix lightly,shake dressing,,action move back and forth agitate ingredients mix lightly,4,action,1.0,shake,1,1.1549308,3.279342
+prepare,decoration,prepare,make ready for cooking,complete initial steps,organize ingredients,prepare ingredients,,prepare make ready for cooking complete initial steps organize ingredients,5,sound,0.0,prepare,1,1.0254104,3.4215333

@@ -1,0 +1,4 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,foodbert_cluster,foodbert_umap_x,foodbert_umap_y,cookbert_cluster,cookbert_umap_x,cookbert_umap_y
+scatter,decoration,decoration,spread loosely,distribute lightly over surface,arrange evenly,scatter herbs on dish,,decoration spread loosely distribute lightly over surface arrange evenly,5,decoration,1.0,scatter,6,6.3396406,1.6097819,14,10.608325,3.3647501
+slather,coating,coating,spread thickly,coat generously,apply in large amount,slather butter on bread,,coating spread thickly coat generously apply in large amount,5,coating,1.0,slather,6,6.2587004,2.127572,14,10.657558,3.351127
+spread,coating,coating,apply evenly,distribute across surface,coat,spread butter on toast,,coating apply evenly distribute across surface coat,5,coating,1.0,spread,6,6.2533045,1.8153948,14,10.892524,3.4776092

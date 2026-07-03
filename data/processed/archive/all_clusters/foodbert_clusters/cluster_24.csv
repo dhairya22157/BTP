@@ -1,0 +1,6 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,foodbert_cluster,foodbert_umap_x,foodbert_umap_y
+overcook,more cooking,cook extra,cook too long,exceed ideal doneness,ruin texture or flavor,overcooked pasta,,cook extra cook too long exceed ideal doneness ruin texture or flavor,5,sound,0.0,overcook,24,3.9885101,3.2916844
+snap,cutting,cut item,break cleanly,crack sharply,test crispness,beans snap when fresh,,cut item break cleanly crack sharply test crispness,2,item,1.0,snap,24,7.6065283,3.1765826
+test,action,action,check doneness,examine readiness,verify cooking result,test cake with toothpick,,action check doneness examine readiness verify cooking result,5,action,1.0,test,24,4.080163,3.695151
+check,action,prepare,inspect or test,verify cooking progress,ensure readiness,check cake for doneness,,prepare inspect or test verify cooking progress ensure readiness,5,sound,0.0,check,24,4.032393,3.891702
+taste,action,action,sample for flavor,check seasoning,test doneness,taste soup before serving,,action sample for flavor check seasoning test doneness,5,action,1.0,taste,24,4.123839,3.27055

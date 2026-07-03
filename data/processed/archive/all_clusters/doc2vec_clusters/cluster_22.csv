@@ -1,0 +1,2 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,doc2vec_cluster,umap_x,umap_y
+broil,more cooking,high heat cooking,cook with intense top heat,use overhead heat,brown food quickly,broil fish fillets,,high heat cooking cook with intense top heat use overhead heat brown food quickly,5,heat plus cool item,0.3087890209920528,broil,22,-3.4191318,-0.17564334

@@ -1,0 +1,2 @@
+word,remark_manual,remark_auto,definition_source_1,definition_source_2,definition_source_3,food_example,unnamed: 6,merged_text,tfidf_cluster,remark_auto_aligned,alignment_score,Word,foodbert_cluster,foodbert_umap_x,foodbert_umap_y,cookbert_cluster,cookbert_umap_x,cookbert_umap_y
+sweeten,add sugar,add sugar,add sugar,increase sweetness,improve taste,sweeten sauce lightly,,add sugar add sugar increase sweetness improve taste,5,add sugar,1.0000000000000002,sweeten,26,4.9243298,2.0207891,13,11.293894,5.2520742
